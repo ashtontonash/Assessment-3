@@ -1,0 +1,34 @@
+body {
+    background: rgb(209, 237, 237);
+    margin: 1rem;
+    padding: 1rem;
+    max-width: 500px;
+    margin: 2rem auto;
+    font-family: "Open Sans", sans-serif;
+  }
+
+  nav {
+	border-bottom: 2px solid rgb(156, 34, 65);
+}
+
+ol {
+	padding-left: 0;
+}
+
+a {
+	color: rgb(184, 24, 56);
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+h1 {
+    color:rgb(117, 20, 44);
+    position: relative;
+}
+
+h3 {
+    color:rgb(24, 117, 94)
+}
